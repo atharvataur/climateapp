@@ -269,3 +269,8 @@ body {
   font-size: 1.2rem;
   opacity: 0.9;
 }
+
+/* Gradient background for cards */
+.bg-gradient {
+  background: linear-gradient(135deg, var(--primary-green) 0%, var(--eco-blue) 100%) !important;
+}
