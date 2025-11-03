@@ -1,0 +1,158 @@
+[
+  {
+    "id": 1,
+    "category": "Climate Change Basics",
+    "question": "What is the primary greenhouse gas responsible for climate change?",
+    "options": [
+      "Oxygen",
+      "Carbon Dioxide",
+      "Nitrogen",
+      "Hydrogen"
+    ],
+    "correctAnswer": "Carbon Dioxide",
+    "explanation": "Carbon dioxide (CO₂) is the primary greenhouse gas driving climate change. It's released through burning fossil fuels, deforestation, and industrial processes."
+  },
+  {
+    "id": 2,
+    "category": "Environmental Science",
+    "question": "What does AQI stand for?",
+    "options": [
+      "Air Quality Index",
+      "Atmospheric Quality Indicator",
+      "Air Quantification Index",
+      "Annual Quality Index"
+    ],
+    "correctAnswer": "Air Quality Index",
+    "explanation": "AQI stands for Air Quality Index, which measures air pollution levels and communicates them to the public on a scale from 0 to 500."
+  },
+  {
+    "id": 3,
+    "category": "Climate Change Basics",
+    "question": "Which gas is most responsible for the greenhouse effect?",
+    "options": [
+      "Oxygen",
+      "Carbon dioxide",
+      "Methane",
+      "Nitrogen"
+    ],
+    "correctAnswer": "Carbon dioxide",
+    "explanation": "While several gases contribute to the greenhouse effect, carbon dioxide is the most significant due to its abundance and long atmospheric lifetime."
+  },
+  {
+    "id": 4,
+    "category": "Renewable Energy",
+    "question": "Which energy source is completely renewable and clean?",
+    "options": [
+      "Coal",
+      "Natural Gas",
+      "Solar Energy",
+      "Nuclear Energy"
+    ],
+    "correctAnswer": "Solar Energy",
+    "explanation": "Solar energy is completely renewable and clean. It harnesses the sun's power without producing greenhouse gas emissions during operation."
+  },
+  {
+    "id": 5,
+    "category": "Environmental Science",
+    "question": "What is deforestation primarily caused by?",
+    "options": [
+      "Natural disasters",
+      "Agriculture expansion and logging",
+      "Urban development only",
+      "Climate change"
+    ],
+    "correctAnswer": "Agriculture expansion and logging",
+    "explanation": "Deforestation is primarily caused by agriculture expansion (including livestock grazing) and logging for timber and other forest products."
+  },
+  {
+    "id": 6,
+    "category": "Climate Policy",
+    "question": "Which international agreement addresses climate change?",
+    "options": [
+      "Geneva Convention",
+      "Paris Agreement",
+      "Vienna Convention",
+      "Berlin Conference"
+    ],
+    "correctAnswer": "Paris Agreement",
+    "explanation": "The Paris Agreement is a legally binding international treaty on climate change adopted by 196 countries in 2015 to limit global warming to well below 2°C."
+  },
+  {
+    "id": 7,
+    "category": "Climate Policy",
+    "question": "What is the target temperature increase limit set by the Paris Agreement?",
+    "options": [
+      "1°C",
+      "1.5°C",
+      "2°C",
+      "3°C"
+    ],
+    "correctAnswer": "1.5°C",
+    "explanation": "The Paris Agreement aims to limit global temperature increase to well below 2°C, preferably to 1.5°C compared to pre-industrial levels."
+  },
+  {
+    "id": 8,
+    "category": "Biodiversity",
+    "question": "What is biodiversity?",
+    "options": [
+      "The variety of life in an ecosystem",
+      "The number of trees in a forest",
+      "The amount of rainfall in a region",
+      "The temperature of the ocean"
+    ],
+    "correctAnswer": "The variety of life in an ecosystem",
+    "explanation": "Biodiversity refers to the variety of living organisms in an ecosystem, including genetic diversity, species diversity, and ecosystem diversity."
+  },
+  {
+    "id": 9,
+    "category": "Water Conservation",
+    "question": "What percentage of Earth's water is freshwater?",
+    "options": [
+      "Less than 3%",
+      "25%",
+      "50%",
+      "75%"
+    ],
+    "correctAnswer": "Less than 3%",
+    "explanation": "Less than 3% of Earth's water is freshwater, and most of that is locked in ice caps and glaciers, making freshwater a precious resource."
+  },
+  {
+    "id": 10,
+    "category": "Sustainable Living",
+    "question": "Which activity reduces your carbon footprint the most?",
+    "options": [
+      "Using public transportation",
+      "Recycling plastic",
+      "Taking shorter showers",
+      "Using LED bulbs"
+    ],
+    "correctAnswer": "Using public transportation",
+    "explanation": "While all these actions help, using public transportation typically reduces carbon emissions the most as transportation is a major source of greenhouse gas emissions."
+  },
+  {
+    "id": 11,
+    "category": "Pollution",
+    "question": "What does PM2.5 refer to?",
+    "options": [
+      "Particulate matter 2.5 micrometers or smaller",
+      "Pollution measurement 2.5",
+      "Air pollution level 2.5",
+      "Particle mass 2.5 grams"
+    ],
+    "correctAnswer": "Particulate matter 2.5 micrometers or smaller",
+    "explanation": "PM2.5 refers to atmospheric particulate matter with a diameter of less than 2.5 micrometers, which can penetrate deep into lungs and cause health problems."
+  },
+  {
+    "id": 12,
+    "category": "Climate Science",
+    "question": "What is the main cause of sea level rise?",
+    "options": [
+      "Melting ice sheets and thermal expansion",
+      "Increased rainfall",
+      "Earthquakes",
+      "Ocean currents"
+    ],
+    "correctAnswer": "Melting ice sheets and thermal expansion",
+    "explanation": "Sea level rise is primarily caused by melting ice sheets and glaciers, plus thermal expansion of seawater as it warms."
+  }
+]
