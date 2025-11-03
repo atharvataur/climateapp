@@ -73,4 +73,9 @@ public class AuthService implements UserDetailsService {
     public String extractUsernameFromToken(String token) {
         return jwtUtil.extractUsername(token);
     }
+
+    public User getUserByEmail(String email) {
+        return userRepository.findByEmail(email)
+                .orElseThrow(() -> new RuntimeException("User not found with email: " + email));
+    }
 }
